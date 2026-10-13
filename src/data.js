@@ -1,0 +1,2 @@
+export const business = {"phone":"064 539 4468","location":"Pimville, Soweto","palette":["#34251d","#d69d62","#f5efe7"],"sub":"A warm digital front door for dining, drinks and time together in Soweto.","archetype":"Hospitality","title":"Pimville, set for the evening.","industry":"Restaurant, lounge, bar","photo":"https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1800&q=85","email":"tshepo.qt@vodamail.co.za","name":"PDL LifeStyle"};
+
